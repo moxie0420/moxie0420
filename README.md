@@ -1,4 +1,9 @@
-## Hi there 👋
+## Rahhh
+lol
+
+just a spot for whatever my brain feels like
+
+feel free to look around
 
 <!--
 **moxie0420/moxie0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
